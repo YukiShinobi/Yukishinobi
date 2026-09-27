@@ -21,6 +21,7 @@
 Alias       YukiShinobi
 Role        Computer Science Student / Product + Server Developer
 Base        United Kingdom
+Work        Simply Management
 Focus       Full-stack products, server systems, gamification, plugins
 Style       Product-first, systems-minded, visually intentional
 Loop        Build → test → break → improve → ship
@@ -30,7 +31,7 @@ I build software with one question in mind:
 
 > **Would someone actually want to use this?**
 
-My work spans **full-stack product development, multiplayer server engineering, plugin systems, gamification, creator technology, AI-powered features, authentication, payments, data-driven UX, and interactive experiences**.
+My work spans **full-stack product development, multiplayer server engineering, plugin systems, Discord/community infrastructure, websites, gamification, creator technology, AI-powered features, authentication, payments, data-driven UX, and interactive experiences**.
 
 I care about the part that comes after **“it works”** — architecture, UX, reliability, identity, permissions, data integrity, deployment, and whether the system can survive real users.
 
@@ -129,6 +130,68 @@ The main skill is not knowing a plugin name — it is understanding **how multip
 
 ---
 
+## `> work_experience`
+
+### Simply Management
+
+I work with **Simply Management**, a digital community and web-services company focused on helping creators, brands, businesses, and online communities build and manage their digital infrastructure.
+
+The company works across **Discord development, community management, website delivery, managed hosting, and social media operations**.
+
+### Discord + community infrastructure
+
+Simply Management builds both new Discord servers and full revamps of existing communities, including:
+
+```txt
+• server structure and channel architecture
+• roles and permissions
+• moderation and logging systems
+• rules, welcomes and onboarding
+• custom embeds and webhooks
+• ticket systems
+• self-assignable roles
+• partnership systems
+• community engagement systems
+• advanced bot configuration
+• server documentation
+• post-launch support
+```
+
+### Web development services
+
+The company also delivers **landing pages and business websites**, from simple one-page builds to more custom multi-page projects.
+
+```txt
+• responsive websites
+• brand integration
+• contact forms
+• product / service pages
+• basic SEO
+• custom functionality
+• third-party integrations
+• source-code handover
+• managed hosting and maintenance
+• domain setup support
+```
+
+### Social media management
+
+Simply Management also supports clients with social media operations, including:
+
+```txt
+• scheduled content publishing
+• engagement and community interaction
+• comment / DM moderation
+• multi-platform management
+• content calendars
+• cross-promotion with Discord communities
+• performance summaries and strategy reviews
+```
+
+Working with Simply Management gives me experience beyond personal projects: **client requirements, delivery scope, digital-community infrastructure, service packaging, web delivery, ongoing management, and building systems for other people to actually use**.
+
+---
+
 ## `> stack`
 
 <div align="center">
@@ -152,7 +215,7 @@ The main skill is not knowing a plugin name — it is understanding **how multip
 
 ### Systems I actively work with
 
-`Clerk` · `Stripe` · `Drizzle ORM` · `pnpm` · `REST APIs` · `Responsive UI` · `Auth flows` · `Webhooks` · `Relational data modelling` · `Pterodactyl` · `Geyser` · `Floodgate` · `LuckPerms` · `Plugin ecosystems` · `VPS deployment`
+`Clerk` · `Stripe` · `Drizzle ORM` · `pnpm` · `REST APIs` · `Responsive UI` · `Auth flows` · `Webhooks` · `Relational data modelling` · `Pterodactyl` · `Geyser` · `Floodgate` · `LuckPerms` · `Discord webhooks` · `Plugin ecosystems` · `VPS deployment`
 
 ---
 
@@ -163,16 +226,16 @@ The main skill is not knowing a plugin name — it is understanding **how multip
 02  Full-Stack Web Applications
 03  Multiplayer Server Engineering
 04  Plugin + Gameplay Systems
-05  Authentication + User Systems
-06  Payments + Membership Architecture
-07  AI-Assisted Product Features
-08  Gamification + Progression Systems
-09  Creator / Gaming Tools
-10  Social Product Architecture
-11  Data Modelling + Persistence
-12  Deployment + Production Readiness
-13  Cross-Platform Compatibility
-14  Secure User-Generated Content Systems
+05  Discord / Community Infrastructure
+06  Authentication + User Systems
+07  Payments + Membership Architecture
+08  AI-Assisted Product Features
+09  Gamification + Progression Systems
+10  Creator / Gaming Tools
+11  Social Product Architecture
+12  Data Modelling + Persistence
+13  Deployment + Production Readiness
+14  Cross-Platform Compatibility
 ```
 
 ---
@@ -182,6 +245,7 @@ The main skill is not knowing a plugin name — it is understanding **how multip
 | Area | Current focus |
 |---|---|
 | **Product** | Gamified fitness platform |
+| **Client Work** | Discord, websites and digital-community systems through Simply Management |
 | **Server Dev** | Multiplayer systems, plugins, ranks and live infrastructure |
 | **Frontend** | Responsive interfaces without visual clutter |
 | **Backend** | Persistent user systems and API boundaries |
@@ -236,6 +300,9 @@ What I bring
 ────────────────────────────────────────────────────
 • Strong product curiosity
 • Practical full-stack project experience
+• Real client-facing digital service experience through Simply Management
+• Discord / community infrastructure experience
+• Website delivery and managed-service experience
 • Multiplayer server and live-operations experience
 • Plugin ecosystem and permissions architecture experience
 • Cross-platform Java / Bedrock server integration
@@ -243,10 +310,9 @@ What I bring
 • Interest in production architecture, not only UI
 • Experience thinking through auth, payments and data
 • High tolerance for iteration and debugging
-• Creator mindset: presentation matters as much as function
 ```
 
-I’m especially interested in opportunities around **software engineering, product engineering, full-stack development, server/backend engineering, developer tooling, gaming technology, multiplayer infrastructure, and AI-enabled products**.
+I’m especially interested in opportunities around **software engineering, product engineering, full-stack development, server/backend engineering, developer tooling, gaming technology, multiplayer infrastructure, digital-community systems, and AI-enabled products**.
 
 ---
 
@@ -281,6 +347,7 @@ Keep the architecture understandable.
 Make the UI feel intentional.
 Make server rules predictable.
 Protect user data.
+Understand the client's actual problem.
 Do not confuse complexity with quality.
 Automate what should not be manual.
 Treat authentication, permissions and payments seriously.
@@ -300,6 +367,7 @@ Keep learning through real builds.
 ◆ Webhook reliability
 ◆ Server-side plugin architecture
 ◆ Multiplayer system reliability
+◆ Client delivery and managed-service workflows
 ◆ Stronger automated testing
 ◆ Mobile architecture
 ◆ AI integrations with measurable product value
@@ -312,7 +380,8 @@ Keep learning through real builds.
 ```js
 const yuki = {
   role: "Computer Science Student + Product / Server Developer",
-  building: ["full-stack products", "server systems", "plugins"],
+  work: "Simply Management",
+  building: ["full-stack products", "server systems", "plugins", "community infrastructure"],
   obsessedWith: [
     "good UX",
     "progression systems",
