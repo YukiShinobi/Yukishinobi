@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=YUKI%20SHINOBI&fontAlign=50&fontAlignY=36&desc=FULL-STACK%20PRODUCTS%20%E2%80%A2%20SERVER%20ENGINEERING%20%E2%80%A2%20INTERACTIVE%20SYSTEMS&descAlign=50&descAlignY=56&color=0:0f172a,45:312e81,100:6d28d9&fontColor=ffffff&descColor=ddd6fe" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=YUKI%20SHINOBI&fontAlign=50&fontAlignY=36&desc=FULL-STACK%20PRODUCTS%20%E2%80%A2%20SERVER%20ENGINEERING%20%E2%80%A2%20INTERACTIVE%20SYSTEMS&descAlign=50&descAlignY=56&color=0:050505,50:2b2b2b,100:5a1616&fontColor=f5f5f5&descColor=d4d4d4" width="100%" />
 
 ### Computer Science student building software, servers, and systems that feel intentional.
 
-<img src="https://komarev.com/ghpvc/?username=YukiShinobi&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=YukiShinobi&style=for-the-badge&color=7a1f1f&label=PROFILE+VIEWS" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-YukiShinobi-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YukiShinobi)
-![Focus](https://img.shields.io/badge/FOCUS-Product%20%2B%20Server%20Engineering-312e81?style=for-the-badge)
-![Status](https://img.shields.io/badge/STATUS-Building-6d28d9?style=for-the-badge)
-![Location](https://img.shields.io/badge/UK-Cambridge-1e293b?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-YukiShinobi-0b0b0b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YukiShinobi)
+![Focus](https://img.shields.io/badge/FOCUS-Product%20%2B%20Server%20Engineering-2b2b2b?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-Building-7a1f1f?style=for-the-badge)
+![Location](https://img.shields.io/badge/UK-Cambridge-4b5563?style=for-the-badge)
 
 </div>
 
@@ -129,67 +129,23 @@ The main skill is not knowing a plugin name — it is understanding **how multip
 
 ---
 
-## `> architecture_snapshot`
-
-```text
-                         ┌──────────────────────┐
-                         │       CLIENT         │
-                         │ React / TypeScript   │
-                         │ Vite / Responsive UI │
-                         └──────────┬───────────┘
-                                    │
-                                    ▼
-                         ┌──────────────────────┐
-                         │      API LAYER       │
-                         │ Node.js / Express    │
-                         └───────┬──────┬───────┘
-                                 │      │
-                  ┌──────────────┘      └──────────────┐
-                  ▼                                    ▼
-        ┌───────────────────┐                ┌──────────────────┐
-        │      AUTH         │                │    PAYMENTS      │
-        │      Clerk        │                │      Stripe      │
-        └───────────────────┘                └──────────────────┘
-                  │                                    │
-                  └──────────────┐      ┌──────────────┘
-                                 ▼      ▼
-                         ┌──────────────────────┐
-                         │      DATA LAYER      │
-                         │ PostgreSQL / Drizzle │
-                         │      Supabase        │
-                         └──────────┬───────────┘
-                                    │
-                                    ▼
-                         ┌──────────────────────┐
-                         │      PLATFORM        │
-                         │       Vercel         │
-                         └──────────────────────┘
-```
-
----
-
 ## `> stack`
 
 <div align="center">
 
 ### Languages + Frontend
-
 <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,vite&perline=6" />
 
 ### Backend + Data
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase&perline=4" />
 
 ### Product + Platform
-
 <img src="https://skillicons.dev/icons?i=vercel,git,github,figma,vscode&perline=5" />
 
 ### Servers + Infrastructure
-
 <img src="https://skillicons.dev/icons?i=java,linux,docker&perline=3" />
 
 ### Also Exploring
-
 <img src="https://skillicons.dev/icons?i=python,discord,bots&perline=3" />
 
 </div>
@@ -227,7 +183,7 @@ The main skill is not knowing a plugin name — it is understanding **how multip
 |---|---|
 | **Product** | Gamified fitness platform |
 | **Server Dev** | Multiplayer systems, plugins, ranks and live infrastructure |
-| **Frontend** | Dense responsive interfaces without visual clutter |
+| **Frontend** | Responsive interfaces without visual clutter |
 | **Backend** | Persistent user systems and API boundaries |
 | **Auth** | Secure account flows and user isolation |
 | **Payments** | Memberships, credits, discounts, webhook-driven state |
@@ -245,17 +201,9 @@ The main skill is not knowing a plugin name — it is understanding **how multip
 
 A React-based fitness product exploring a cleaner, more motivating way to track progress and visualize consistency.
 
-[![Repo](https://img.shields.io/badge/OPEN%20REPOSITORY-fitx--app-111827?style=for-the-badge&logo=github)](https://github.com/YukiShinobi/fitx-app)
+[![Repo](https://img.shields.io/badge/OPEN%20REPOSITORY-fitx--app-0b0b0b?style=for-the-badge&logo=github)](https://github.com/YukiShinobi/fitx-app)
 
 **Public stack:** React 19 · Recharts · Testing Library · JavaScript
-
-**What I’m exploring through it:**
-
-- progress visualization
-- fitness-oriented UX
-- dashboard information hierarchy
-- product identity
-- user motivation through feedback loops
 
 ---
 
@@ -281,129 +229,6 @@ I have experience taking a server from **configuration → testing → debugging
 
 ---
 
-## `> private_builds`
-
-Some of my most serious work is intentionally private while under active construction.
-
-That includes systems involving:
-
-```txt
-• authentication
-• payments
-• private user data
-• social features
-• progression storage
-• moderation
-• production infrastructure
-• deployment configuration
-• server-side systems and plugins
-```
-
-Private does not mean abandoned — in my case, it usually means **currently being built**.
-
----
-
-## `> product_thinking`
-
-When I build something, I try to think beyond the component in front of me.
-
-```txt
-USER
- └─ What problem are they actually trying to solve?
-
-EXPERIENCE
- └─ Can they understand the product without being taught it?
-
-SYSTEM
- └─ Will the architecture still make sense when features multiply?
-
-DATA
- └─ What should persist, what should be private, and what can fail safely?
-
-BUSINESS
- └─ How do auth, payments, plans and permissions fit together?
-
-LIVE OPS
- └─ What happens when real users hit the system at the same time?
-
-DELIVERY
- └─ Can this be deployed, tested and maintained without heroics?
-```
-
----
-
-## `> roadmap`
-
-```diff
-+ Ship larger production-grade full-stack systems
-+ Build more original server-side plugins and gameplay systems
-+ Strengthen backend architecture and database design
-+ Expand practical use of TypeScript across product code
-+ Improve automated testing and deployment confidence
-+ Build deeper payment + subscription workflows
-+ Improve multiplayer server observability and reliability
-+ Add useful AI-assisted product features
-+ Move selected products toward Android/mobile
-+ Turn private builds into polished public launches
-```
-
----
-
-## `> toolbox`
-
-```txt
-Editor          VS Code
-Version Control Git + GitHub
-Frontend        React / TypeScript / Vite
-Backend         Node.js / Express
-Database        PostgreSQL / Supabase
-ORM             Drizzle
-Authentication  Clerk
-Payments        Stripe
-Deployment      Vercel
-Server Hosting  VPS / Pterodactyl
-Server Systems  Geyser / Floodgate / LuckPerms
-Plugin Work     Gameplay / ranks / economy / teams / integrations
-Design          Figma
-Package Mgmt    pnpm
-Operating Sys   Windows / Linux server environments
-```
-
----
-
-## `> github_telemetry`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YukiShinobi&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukiShinobi&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-
-<img src="https://streak-stats.demolab.com?user=YukiShinobi&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## `> achievements`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YukiShinobi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" width="95%" />
-
-</div>
-
----
-
-## `> activity_map`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YukiShinobi&theme=tokyo-night&hide_border=true&area=true&custom_title=YukiShinobi%20Contribution%20Activity" width="100%" />
-
-</div>
-
----
-
 ## `> recruiter_mode`
 
 ```txt
@@ -422,6 +247,29 @@ What I bring
 ```
 
 I’m especially interested in opportunities around **software engineering, product engineering, full-stack development, server/backend engineering, developer tooling, gaming technology, multiplayer infrastructure, and AI-enabled products**.
+
+---
+
+## `> github_telemetry`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YukiShinobi&show_icons=true&hide_border=true&theme=shadow_red&rank_icon=github&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukiShinobi&layout=compact&hide_border=true&theme=shadow_red&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com?user=YukiShinobi&theme=shadow-red&hide_border=true" />
+
+</div>
+
+---
+
+## `> activity_map`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YukiShinobi&bg_color=0b0b0b&color=d4d4d4&line=7a1f1f&point=f5f5f5&area=true&hide_border=true&title_color=f5f5f5&custom_title=YukiShinobi%20Contribution%20Activity" width="100%" />
+
+</div>
 
 ---
 
@@ -452,7 +300,6 @@ Keep learning through real builds.
 ◆ Webhook reliability
 ◆ Server-side plugin architecture
 ◆ Multiplayer system reliability
-◆ Secure media + moderation flows
 ◆ Stronger automated testing
 ◆ Mobile architecture
 ◆ AI integrations with measurable product value
@@ -480,20 +327,6 @@ const yuki = {
 
 ---
 
-## `> status`
-
-```diff
-+ Building larger full-stack systems
-+ Building server-side systems and plugin-driven experiences
-+ Improving production architecture
-+ Expanding into mobile development
-+ Exploring practical AI integrations
-+ Turning private builds into launch-ready products
-+ Learning through real product and live-server constraints
-```
-
----
-
 <div align="center">
 
 ### YUKI // SHINOBI
@@ -504,6 +337,6 @@ const yuki = {
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0f172a,45:312e81,100:6d28d9" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:050505,50:2b2b2b,100:5a1616" width="100%" />
 
 </div>
