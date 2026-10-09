@@ -41,13 +41,13 @@ I build **products, multiplayer systems, plugins and community infrastructure**.
 
 ## `> current_builds`
 
-### 🩸 Gamified Fitness Platform
+### 🩸 Project Creation — Gamified Fitness Platform
 
 My main product build combines **workouts, progression, social systems, analytics, memberships, coaching and game-inspired motivation**.
 
 `React` · `TypeScript` · `Vite` · `Node.js` · `Express` · `PostgreSQL` · `Drizzle` · `Clerk` · `Stripe` · `Vercel`
 
-> Core development remains private while production systems are under active construction.
+[![Open Project Creation](https://img.shields.io/badge/OPEN%20PROJECT%20CREATION-7a1f1f?style=for-the-badge&logo=vercel&logoColor=white)](https://project-creation-theta.vercel.app/)\n\n> Live web app available now. Core source remains private while production systems continue to evolve.
 
 ### ⚔️ Multiplayer / Plugin Systems
 
