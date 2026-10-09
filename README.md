@@ -47,7 +47,9 @@ My main product build combines **workouts, progression, social systems, analytic
 
 `React` · `TypeScript` · `Vite` · `Node.js` · `Express` · `PostgreSQL` · `Drizzle` · `Clerk` · `Stripe` · `Vercel`
 
-[![Open Project Creation](https://img.shields.io/badge/OPEN%20PROJECT%20CREATION-7a1f1f?style=for-the-badge&logo=vercel&logoColor=white)](https://project-creation-theta.vercel.app/)\n\n> Live web app available now. Core source remains private while production systems continue to evolve.
+[![Open Project Creation](https://img.shields.io/badge/OPEN%20PROJECT%20CREATION-7a1f1f?style=for-the-badge&logo=vercel&logoColor=white)](https://project-creation-theta.vercel.app/)
+
+> Live web app available now. Core source remains private while production systems continue to evolve.
 
 ### ⚔️ Multiplayer / Plugin Systems
 
